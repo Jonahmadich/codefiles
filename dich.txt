@@ -1,4 +1,4 @@
 Hey! if you are reading this, use this code to access epik games servers. I think the number got encoded oh no...
 
-SSBzYXcgc29tZXRoaW5nIGFib3V0IGNvcmVzLi4u
-bWF5YmUgaSBjYW4gdHJ5IGZpbmRpbmcgc29tZSBpbmZvIGFib3V0IGl0IGluZEdobElITmxjblpsY2c9PQ==aXRzZWxm
+key = secretbitch
+7D 99 C9 9B 8B EE 7C 1D E8 97 FE 20 06 EF 03 BA 47 21 28 8A DD 4D E3 29 10 00 30 41 BC DC ED F3 1C A6 70 2B BB 70 4A 0C CF 98 F4 10 DC 5B 10 F7 A0
